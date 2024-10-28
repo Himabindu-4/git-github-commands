@@ -1,0 +1,31 @@
+
+GIT COMMANDS: 
+
+git --version  -uses current version
+git config --list –check whether we registered or not
+mkdir (project name) -  add file
+cd (project name)-create directory
+dir – to see how many number of files and dirs present
+git init- initialize it
+git status- to whether utilize or not
+creating the files- no commands(use .extension to save how u want to save)
+git add (file name -make sure it is inside folder before adding)
+       git add --all(adds all files if more number of files are present)
+git commit –m ”message” -saves file (else someone can change if not saved)
+         message –like first,second,third what updates are made
+git log-to get what all actions we have done from first in git
+git commit –help  -for help to get git commands(stays tin same prompt)
+             git commit --help- goes to another browser
+git help --all – gives all commands
+-additional comment
+
+git config global user.email”email”
+git config global user.name”name”
+
+git remote add origin “ url”
+git push –set--upstream master/main
+
+
+
+name: Hima bindu
+usn : 23btrcl228
